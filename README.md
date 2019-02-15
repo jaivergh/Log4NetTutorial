@@ -7,4 +7,4 @@ Use of log4Net
 
 -Create the Logger: "private static readonly log4net.ILog log = LogHelper.GetLogger();"
 
--Add the "<log4net>" section in App.config
+-Add the "\<log4net>" section in App.config
